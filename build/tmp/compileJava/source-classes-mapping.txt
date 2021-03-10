@@ -1,0 +1,4 @@
+homework/Customer.java
+ homework.Customer
+homework/Checklist.java
+ homework.Checklist
